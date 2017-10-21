@@ -1,0 +1,59 @@
+/*
+ * Copyright 2017 Waryam Soomro
+ * Licensed under MIT 
+ */
+
+.abs_center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.listrow{
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: auto
+    
+
+}
+
+.listrowitem{
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    width: 23%;
+}
+
+.pagerb {
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 5px;
+    width: 350px;
+    height: 130px;
+    border-radius: 50px;
+text-align: center;
+}
+
+.alignsearch{
+    margin-left: 2rem;
+    width: 18rem;
+}
+
+.pagcenter{
+    margin-left: 6rem;
+    margin-top: 0.3rem;
+}
+
+.plinkw{
+    width: 5rem;
+    margin-right: 0.5rem;
+    border-radius: 10px;
+}
+
+.handc{
+    cursor: pointer;
+}
