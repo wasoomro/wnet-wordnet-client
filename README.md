@@ -11,12 +11,11 @@ It works inside your browser. Open application, open url it points in your brows
 * Word Index
 * Search Auto-Complete
 
-
 **Screenshots:**
-![screenshot](scr/front.png)
-![screenshot](scr/3.png)
-![screenshot](scr/4.png)
-![screenshot](scr/5.png)
+![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/front.png)
+![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/3.png)
+![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/4.png)
+![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/5.png)
 
 
 
