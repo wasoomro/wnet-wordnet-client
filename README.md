@@ -12,10 +12,10 @@ It works inside your browser. Open application, open url it points in your brows
 * Search Auto-Complete
 
 **Screenshots:**
-![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/front.png)
-![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/3.png)
-![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/4.png)
-![screenshot](https://github.com/wasoomro/wnet-wordnet-client/raw/master/scr/5.png)
+![screenshot](https://user-images.githubusercontent.com/22234795/31851047-fe98c6e0-b612-11e7-9d22-17069d3d1b71.PNG)
+![screenshot](https://user-images.githubusercontent.com/22234795/31851048-fecab8bc-b612-11e7-9e11-dbc48e73b17d.PNG)
+![screenshot](https://user-images.githubusercontent.com/22234795/31851049-feff04e6-b612-11e7-8faf-bd36245f1875.PNG)
+![screenshot](https://user-images.githubusercontent.com/22234795/31851046-fe62dab2-b612-11e7-94b2-bb8cb46400f4.PNG)
 
 
 
